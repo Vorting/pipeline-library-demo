@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-package com
+package src.com
 
 class GlobalVars {
    static String foo = "bar"
