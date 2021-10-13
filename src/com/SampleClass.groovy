@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-package com
+package src.com
 
 class SampleClass {
    String name
